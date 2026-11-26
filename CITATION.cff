@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Adipose tissue senescence signatures after surgical and dietary weight loss: analysis code"
+type: software
+license: MIT
+authors:
+  - family-names: Alkan
+    given-names: İrem
+    orcid: "https://orcid.org/0000-0003-1766-4586"
+    affiliation: "Department of Biology, Institute of Science, Burdur Mehmet Akif Ersoy University"
+  - family-names: "Korkmaz Ülüfer"
+    given-names: Didem
+    orcid: "https://orcid.org/0000-0002-8024-3963"
+    affiliation: "Department of Molecular Biology and Genetics, Burdur Mehmet Akif Ersoy University"
+version: "1.0.0"
+date-released: "2026-11-26"
+keywords:
+  - cellular senescence
+  - SenMayo
+  - adipose tissue
+  - bariatric surgery
+  - weight loss
+  - transcriptomics

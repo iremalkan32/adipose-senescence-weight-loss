@@ -1,0 +1,17 @@
+before_sample,best_after_sample,r_best,r_second,r_replicate_pair,replicate_number_pairing_confirmed
+before_rep1,after_rep1,0.482,0.2122,0.482,TRUE
+before_rep2,after_rep2,0.427,0.1439,0.427,TRUE
+before_rep3,after_rep3,0.671,0.1456,0.671,TRUE
+before_rep4,after_rep4,0.714,0.1187,0.714,TRUE
+before_rep5,after_rep5,0.601,0.2175,0.601,TRUE
+before_rep6,after_rep6,0.699,0.0868,0.699,TRUE
+before_rep7,after_rep7,0.624,0.0979,0.624,TRUE
+before_rep8,after_rep8,0.694,0.0556,0.694,TRUE
+before_rep9,after_rep9,0.646,0.0601,0.646,TRUE
+before_rep10,after_rep10,0.594,0.1752,0.594,TRUE
+before_rep11,after_rep11,0.506,0.0887,0.506,TRUE
+before_rep12,after_rep12,0.632,0.0917,0.632,TRUE
+before_rep13,after_rep13,0.589,0.1985,0.589,TRUE
+before_rep14,after_rep14,0.459,0.0326,0.459,TRUE
+before_rep15,after_rep15,0.604,0.0652,0.604,TRUE
+before_rep16,after_rep16,0.634,0.1567,0.634,TRUE
